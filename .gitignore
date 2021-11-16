@@ -37,6 +37,17 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+
+# Folders to ignore
+Introduccio_clase/
+Modulo1_clase/
+Modulo2_clase/
+Modulo3_clase/
+Tareas/
+Examen/
+Quices/
+
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
